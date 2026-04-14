@@ -255,3 +255,4 @@ Also output: `HUMANISATION_REPORT.md` documenting:
 - Summary of vocabulary substitutions made.
 - Any segments that required multiple iterations.
 - Final estimated AI detection risk assessment.
+- CODEX will review your ouput.
